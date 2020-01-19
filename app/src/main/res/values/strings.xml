@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">TaleOfCubes</string>
+    <string name="app_name">The Tale of Cubes</string>
+
+    <string name="dialog_not_online">Offline attempts are recorded,\noffline successes not...</string>
+    <string name="ok">OK</string>
+
 </resources>
